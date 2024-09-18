@@ -14,7 +14,14 @@
   * Music social media
 * Gym
   * ML to create best splits and workouts for given situation?
+* Pyschology
+  * Since this was my favorite subject before CS, it'd be cool to connect the two in a project
+* Geography
+  * I'm not super enthusiastic about this subject, but since I'm also majoring in it and have some experience, it could be cool to connect the two. Plus, maps are a great way for pinpointing problems or visualizing them
 
 ### CS Topics I'm Interested in Learning or Practicing
 * Computer Vision
 * NLP
+* AI
+* ML
+* Hardware / Software interface? Not really a fan of it, but I could definitely use the practice
