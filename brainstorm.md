@@ -1,5 +1,5 @@
 # Project Ideas
-### What do I like?
+### Topics I'm Interested In
 * Fantasy football
   * ML best lineup predictions and drafting? Could create a large dataset with values representing QB situation, target share, weapon competition, etc., then calculate a score to rank the player and use that ranking. Probably have to take injuries into account, too
 * NFL
@@ -14,4 +14,7 @@
   * Music social media
 * Gym
   * ML to create best splits and workouts for given situation?
-* 
+
+### CS Topics I'm Interested in Learning or Practicing
+* Computer Vision
+* NLP
