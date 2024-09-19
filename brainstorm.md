@@ -16,6 +16,7 @@
   * ML to create best splits and workouts for given situation?
 * Pyschology
   * Since this was my favorite subject before CS, it'd be cool to connect the two in a project
+  * My psych major friends might have some ideas, too
 * Geography
   * I'm not super enthusiastic about this subject, but since I'm also majoring in it and have some experience, it could be cool to connect the two. Plus, maps are a great way for pinpointing problems or visualizing them
 
@@ -25,3 +26,13 @@
 * AI
 * ML
 * Hardware / Software interface? Not really a fan of it, but I could definitely use the practice
+
+---
+# Project #1
+I'm going to make the app for Sony cameras. All the other apps in the app store suck and it will be much more convenient for myself to use an app instead of transferring photos via a cable.
+
+Since I have absolutely no idea where to start, I've asked ChatGPT where to start. I'm not sure if this is frowned upon or not. 
+
+### Journal
+#### _9/18/2024_
+This is the start date of my project.
